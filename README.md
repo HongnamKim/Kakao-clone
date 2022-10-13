@@ -1,3 +1,3 @@
-#Kakao clone
+#KakaoTalk Clone
 
 first clone coding
